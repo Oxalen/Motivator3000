@@ -1,6 +1,9 @@
 # Motivator3000
 
 *L’assistant IA local et libre pour aider les lycéens à briller dans l’écosystème des stages professionnels.*
+
+
+Motivator3000 est un projet du *Cormont Computer Club*. Responsable de projet Matthieu Farcot. (c) 2025 Lycée Louis de Cormontaigne.
  
 # Pourquoi ce nom ?
 Motivator3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
