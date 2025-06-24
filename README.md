@@ -42,7 +42,7 @@ Tous les développements sont publiés sous AGPL v3, pour permettre :
 - aux enseignants, responsables de BDE ou DDFPT et développeurs de l’adapter et l’enrichir,
 - à la communauté de partager les améliorations en toute liberté.
 
-# Motivator3000, les parties réalisées:
+# Motivator3000, le point sur le projet :
 Ce qui a été fait pour l’instant, ou est en cours de réalisation
  
 ## Exploration des modèles IA open source adaptés à un usage local
