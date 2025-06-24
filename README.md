@@ -1,6 +1,5 @@
 # Motivator3000
 
-Motivator3000 
 *L’assistant IA local et libre pour aider les lycéens à briller dans l’écosystème des stages professionnels.*
  
 # Pourquoi ce nom ?
