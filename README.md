@@ -2,7 +2,7 @@
 
 *L’assistant IA local et libre pour aider les lycéens à briller dans l’écosystème des stages professionnels.*
 
-
+![./pictures/Motivator3000-Logo1.png]
 
 (c) 2025 Lycée Louis de Cormontaigne. Responsable de projet Matthieu Farcot. Motivator3000 est un projet du *Cormont Computer Club*. 
  
