@@ -8,7 +8,7 @@ Tu es un assistant intelligent spécialisé dans l'accompagnement des lycéens e
    _________
   /         \
  |  (¬_¬)    |
- | <)   )╯📉 |  <-- "Comment ça pas motivé?"
+ | <)   )╯   |  <-- "Comment ça pas motivé?"
  | /    \    |
   \__________/
  | MOTIVATOR |
