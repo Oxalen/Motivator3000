@@ -4,7 +4,7 @@
 
 ![Logo](./pictures/Motivator3000-Logo1.png "Logo")
 
-(c) 2025 Lycée Louis de Cormontaigne. Responsable de projet Matthieu Farcot. Motivator3000 est un projet du *Cormont Computer Club*. 
+Motivator3000 est un projet du *Cormont Computer Club*. 
  
 # Pourquoi ce nom ?
 Motivator3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
@@ -80,4 +80,15 @@ Actions menées :
 
 
 Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suffisent pas en l’absence de connaissance métier spécifique au contexte du lycée professionnel. D’où la nécessité d’implémenter un système RAG avec accès aux référentiels.
+
+
+
+# Licence et propriété intellectuelle
+<Motivator3000 - l'assistant numérique pour une pfmp du futur>
+Copyright (C) 2025 Matthieu Farcot
+
+Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale Affero GNU telle que publiée par la Free Software Foundation, soit la version 3 de la licence, soit (à votre choix) toute version ultérieure.
+
+Ce programme est distribué dans l’espoir qu’il sera utile, mais SANS AUCUNE GARANTIE ; sans même la garantie implicite de COMMERCIALISATION ou D’ADÉQUATION À UN BUT PARTICULIER.   Consultez la Licence Publique Générale Affero GNU pour plus de détails.
+
 
