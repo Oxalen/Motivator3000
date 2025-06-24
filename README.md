@@ -84,7 +84,7 @@ Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suf
 
 
 # Licence et propriété intellectuelle
-<Motivator3000 - l'assistant numérique pour une pfmp du futur>
+Motivator3000 - l'assistant numérique pour une pfmp réussie
 
 Copyright (C) 2025 Lycée Louis de Cormontaigne - Matthieu Farcot
 
