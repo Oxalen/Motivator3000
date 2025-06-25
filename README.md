@@ -5,7 +5,47 @@
 ![Logo](./pictures/Motivator3000-Logo1.png "Logo")
 
 Motivator3000 est un projet du *Cormont Computer Club*. 
- 
+
+# Introduction au projet
+
+## Pourquoi l’usage "générique" de l’IA par les lycéens ne suffit pas
+Avec la généralisation des outils d’intelligence artificielle accessibles en ligne, de nombreux lycéens ont commencé à utiliser des modèles comme ChatGPT, Gemini ou d’autres assistants IA pour générer leurs CV ou leurs lettres de motivation. Si cette démarche est compréhensible et peut sembler rassurante, elle pose plusieurs limites majeures.
+
+### Des lettres génériques et interchangeables
+Les modèles d’IA généralistes, même performants, n’ont aucune connaissance réelle du parcours scolaire ou professionnel spécifique des lycéens, en particulier ceux de la voie professionnelle.
+Résultat : les lettres générées sont souvent très semblables les unes aux autres, quel que soit :
+- le métier visé (électricien, technicien réseau, agent de maintenance...),
+- la formation suivie (MELEC, CIEL, Transition numérique...),
+- l’annonce à laquelle l’élève répond.
+
+On retrouve systématiquement les mêmes formulations creuses, comme :
+'''
+"Je suis très motivé pour rejoindre votre entreprise et acquérir de l'expérience."
+'''
+ou encore :
+'''
+"Votre structure correspond parfaitement à mes aspirations professionnelles."
+'''
+Ces phrases, bien que polies, n’ont aucune valeur différenciante et ne permettent ni de refléter la réalité du parcours de l’élève, ni de réellement convaincre un recruteur.
+
+### Un contenu répétitif et sans personnalité
+La majorité des modèles produisent du texte en s’appuyant sur des probabilités de langage et des formulations génériques. Lorsqu’ils ne sont pas alimentés par des informations contextuelles précises, ils finissent par générer toujours les mêmes types de documents, qui manquent :
+- de spécificité (compétences réellement acquises),
+- de cohérence métier (liens entre formation et mission de stage),
+- de personnalité (langage, centres d’intérêt, projet professionnel).
+
+Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui peut desservir leur crédibilité.
+
+## Motivator 3000 : une réponse adaptée, locale et intelligente
+La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
+contextualisé : il s’appuie sur les référentiels officiels des formations suivies par les élèves,
+personnalisé : il tient compte du profil de chaque utilisateur et de l’annonce à laquelle il répond,
+local : tout fonctionne sans connexion internet, sans cloud, dans le respect total du RGPD,
+libre : le projet est open source, modifiable, installable dans n’importe quel établissement.
+En combinant la puissance de l’intelligence artificielle avec une architecture RAG (Retrieval-Augmented Generation) et un ancrage fort dans les parcours des lycéens, Motivator 3000 permet enfin de produire des lettres et des CV crédibles, valorisants et réellement adaptés aux ambitions de chaque élève.
+
+C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
+
 # Pourquoi ce nom ?
 Motivator3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
 - Le rétro-gaming et l’univers néo-vintage sont très populaires chez les jeunes générations, en particulier chez les lycéens intéressés par les filières techniques ou numériques. Cela crée un lien culturel immédiat avec l’univers visuel et affectif des publics cibles.
