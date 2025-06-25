@@ -46,7 +46,7 @@ En combinant la puissance de l’intelligence artificielle avec une architecture
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
 
 # Pourquoi ce nom ?
-<img align="right" src="./pictures/motivator3000_SM.png" width="500">
+<img align="right" src="./pictures/motivator3000_SM.png" height="500">
 
 Motivator3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
 
