@@ -19,13 +19,9 @@ Résultat : les lettres générées sont souvent très semblables les unes aux a
 - l’annonce à laquelle l’élève répond.
 
 On retrouve systématiquement les mêmes formulations creuses, comme :
-'''
-"Je suis très motivé pour rejoindre votre entreprise et acquérir de l'expérience."
-'''
+'"Je suis très motivé pour rejoindre votre entreprise et acquérir de l'expérience."'
 ou encore :
-'''
-"Votre structure correspond parfaitement à mes aspirations professionnelles."
-'''
+'"Votre structure correspond parfaitement à mes aspirations professionnelles."'
 Ces phrases, bien que polies, n’ont aucune valeur différenciante et ne permettent ni de refléter la réalité du parcours de l’élève, ni de réellement convaincre un recruteur.
 
 ### Un contenu répétitif et sans personnalité
