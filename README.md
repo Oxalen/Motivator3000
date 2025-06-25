@@ -2,7 +2,7 @@
 
 *L’assistant IA local et libre pour aider les lycéens à briller dans l’écosystème des stages professionnels.*
 
-![Logo](./pictures/Motivator 3000-Logo1.png "Logo")
+![Logo](./pictures/Motivator3000-Logo1.png "Logo")
 
 Motivator 3000 est un projet du *Cormont Computer Club*. 
 
@@ -46,7 +46,7 @@ En combinant la puissance de l’intelligence artificielle avec une architecture
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
 
 # Pourquoi ce nom ?
-<img align="right" src="./pictures/Motivator 3000_SM.png" height="500">
+<img align="right" src="./pictures/Motivator3000_SM.png" height="500">
 
 Motivator 3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
 
