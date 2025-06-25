@@ -165,6 +165,58 @@ Acceptable
 ## **NON UTILISABLE**
 
 
+# Deepseek r1-0528
+
+## Licence
+
+(https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)
+
+## Quantité de RAM utilisée
+
+(https://github.com/user-attachments/assets/c1d6666d-a2cd-4ea9-ba38-f08e5ddd311b)
+
+## Evaluation de la vitesse pour générer une lettre de motivation
+
+- très rapide
+
+9.26 secondes
+
+## Exemple de lettre
+
+Objet : Expression de candidature au titre d’une Période de Formation en Milieu Professionnel (PFMP)
+
+Bonjour,
+
+Je me permets de vous soumettre ma lettre de motivation dans le cadre de la recherche de mon Période de Formation en Milieu Professionnel (PFMP). Je suis un(e) élève de 16 ans au Lycée Louis de Cormontaigne à Metz, en première année de Bac Pro CIEL (Cybersécurité, Informatique et Réseaux, Électronique).
+
+Au-delà du document joint, voici qui vous permet d’envisager ma candidature :
+
+Une passion indéfectible pour l’informatique et les technologies 🖥️💻.
+Des bases solides en gestion de l’environnement Windows, fruit des cours au lycée mais aussi de mes propres projets.
+Initiation aux montages/retapages d’ordinateurs (même si ce n’est pas ma spécialité, j’aime comprendre le fonctionnement matériel et logiciel).
+Sensibilité aux enjeux du numérique : cybersécurité, programmation (HTML, Python), réseaux...
+Un tempérament à la fois autonome et collaborateur, prôné par mes réalisations scolaires.
+Cet accompagnement s’inscrit parfaitement dans mon parcours de formation CIEL, car j’ai toujours eu un grand intérêt pour le développement informatique, l’aspects sécurité des données, et les réseaux locaux (je connais quelques secrets !).
+
+Voici ma chance de vous solliciter. J’espère que mon profil correspond à la recherche d’un stage dans votre entreprise 🧑‍💻➡️🧑‍💼. En effet :
+
+Mon niveau technique est en progression constante ;
+Mes qualités personnelles (rigueur, esprit d’équipe et curiosité) sont au rendez-vous ;
+Je suis prêt(e) à relever un nouveau défi !
+Dans l’attente de votre retour favorable, je me permets de vous rappeler que mon objectif est de trouver une voie professionnelle dans ce secteur passionnant : cybersécurité, développement informatique ou installation réseaux. Aujourd’hui plus qu’hier, j’ai la conviction d’être sur la bonne piste !
+
+Je me tiens à votre disposition pour un échange téléphonique ou une présentation personnelle dans les meilleurs délais. Voici le PDF de mon CV en version « professionnelle » 🧾 (sans emoji). Je suis ravi(e) de l’avoir produit moi-même ✍️.
+
+Anna Logie
+
+220 Rue des Éléphants, 57000 Metz
+
+📞 06.01.02.02.20 •📧 
+
+
+# Compatibilité avec le system prompt
+Déshonorant
+
 
 
 
