@@ -107,6 +107,10 @@ Lycée Louis de Cormontaigne – Metz
 
 06 01 02 2020 | 
 
+# Compatibilité avec le system prompt
+
+Acceptable
+
 
 # Mistral Small 3.2
 
@@ -151,6 +155,14 @@ Je suis disponible pour effectuer ma PFMP du 14 novembre au 19 décembre. Je ser
 Dans l’attente de votre retour, je vous prie d’agréer, Madame, Monsieur, mes salutations distinguées.
 
 Anna Logie
+
+# Compatibilité avec le system prompt
+
+Acceptable
+
+
+# Llama 3.3 70B 
+## **NON UTILISABLE**
 
 
 
