@@ -53,7 +53,7 @@ Objectif : identifier des modèles de langage suffisamment puissants pour gén�
 
 
 Modèles testés :
-- Gemma (gemma-2-27b et gemma-2-9b)
+- Gemma (gemma-3-27b et gemma-3-12b)
 - Mistral (mistral-small-3.2)
 - LLaMA (llama-3.3-70b)
 - DeepSeek (deepseek-r1-0528-qwen3-8b)
