@@ -15,4 +15,5 @@ Chez elle, elle a monté un petit labo : un vieil ordinateur reconverti en serve
 Son cercle d’amis est restreint, mais solide. Elle est proche de deux camarades de classe, avec qui elle partage un serveur privé pour tester des configurations réseau et faire de la veille en cybersécurité. Ils se lancent parfois des défis : “trouve la faille dans ce système en moins de 10 minutes” ou “protège ce serveur contre trois types d’attaque”.
 
 Anna Logie n’est pas là pour “briller”. Elle avance avec discrétion, mais avec une vraie vision : celle d’un futur numérique plus sécurisé, plus éthique, plus humain. Et tout porte à croire qu’elle s’y fera une place.
-![image](https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc)
+
+<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="500">
