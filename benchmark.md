@@ -32,7 +32,7 @@ Google
 - très rapide
 
 ## Exemple de lettre
-
+'''
 Anna Logie
 220 Rue des Éléphants
 57000 Metz
@@ -60,7 +60,7 @@ Je suis disponible pour effectuer ma PFMP [Indique tes disponibilités : dates p
 Dans l’attente de votre réponse, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
 Anna Logie
-
+'''
 # Compatibilité avec le system prompt
 
 Acceptable
@@ -87,6 +87,7 @@ Alibaba Cloud
 27.5 secondes
 
 ## Exemple de lettre
+'''
 À l’attention de l’équipe de recrutement de LDLC,
 
 Bonjour,
@@ -106,7 +107,7 @@ Anna Logie
 Lycée Louis de Cormontaigne – Metz
 
 06 01 02 2020 | 
-
+'''
 # Compatibilité avec le system prompt
 
 Acceptable
@@ -127,7 +128,7 @@ Acceptable
 - lente
 - 
 ## Exemple de lettre
-
+'''
 Anna Logie
 220 Rue des Éléphants
 57000 Metz
@@ -155,7 +156,7 @@ Je suis disponible pour effectuer ma PFMP du 14 novembre au 19 décembre. Je ser
 Dans l’attente de votre retour, je vous prie d’agréer, Madame, Monsieur, mes salutations distinguées.
 
 Anna Logie
-
+'''
 # Compatibilité avec le system prompt
 
 Acceptable
@@ -182,7 +183,7 @@ Acceptable
 9.26 secondes
 
 ## Exemple de lettre
-
+'''
 Objet : Expression de candidature au titre d’une Période de Formation en Milieu Professionnel (PFMP)
 
 Bonjour,
@@ -213,7 +214,7 @@ Anna Logie
 
 📞 06.01.02.02.20 •📧 
 
-
+'''
 # Compatibilité avec le system prompt
 Déshonorant
 
