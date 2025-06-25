@@ -1,5 +1,8 @@
 # Les personnages fictifs 
 ## Anna Logie
+
+<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="500">
+
 Anna Logie est en première CIEL au lycée Louis de Cormontaigne à Metz, une filière exigeante centrée sur la cybersécurité, l’informatique, l’électronique et les réseaux. Et elle y a trouvé exactement ce qu’elle cherchait : un cadre rigoureux où l’on ne se contente pas d’apprendre à coder, mais où l’on comprend comment penser, protéger, et faire dialoguer les machines.
 
 Ce qui la caractérise avant tout, c’est son esprit méthodique. Anna est de celles qui prennent le temps de comprendre avant d’agir. Posée, concentrée, elle aime quand les choses sont claires et bien structurées. Elle garde toujours un carnet sur elle, où elle note ses idées, ses erreurs, des morceaux de code, ou des schémas de systèmes.
@@ -16,4 +19,3 @@ Son cercle d’amis est restreint, mais solide. Elle est proche de deux camarade
 
 Anna Logie n’est pas là pour “briller”. Elle avance avec discrétion, mais avec une vraie vision : celle d’un futur numérique plus sécurisé, plus éthique, plus humain. Et tout porte à croire qu’elle s’y fera une place.
 
-<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="500">
