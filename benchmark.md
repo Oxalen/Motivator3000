@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 # Motivator 3000 benchmarks
 
 Cette page a pour but de regrouper les resultats des benchmarks d'évaluation des différentes IA utilisées pour la mise en oeuvre de Motivator 3000
@@ -11,10 +21,6 @@ Google
 ## Licence
 
 (https://ai.google.dev/gemma/terms)
-
-## Taille de l'archive
-
-
 
 ## Quantité de RAM utilisée
 
