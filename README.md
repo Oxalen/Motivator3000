@@ -1,10 +1,10 @@
-# Motivator3000
+# Motivator 3000
 
 *L’assistant IA local et libre pour aider les lycéens à briller dans l’écosystème des stages professionnels.*
 
-![Logo](./pictures/Motivator3000-Logo1.png "Logo")
+![Logo](./pictures/Motivator 3000-Logo1.png "Logo")
 
-Motivator3000 est un projet du *Cormont Computer Club*. 
+Motivator 3000 est un projet du *Cormont Computer Club*. 
 
 # Introduction au projet
 
@@ -46,16 +46,16 @@ En combinant la puissance de l’intelligence artificielle avec une architecture
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
 
 # Pourquoi ce nom ?
-<img align="right" src="./pictures/motivator3000_SM.png" height="500">
+<img align="right" src="./pictures/Motivator 3000_SM.png" height="500">
 
-Motivator3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
+Motivator 3000 est un clin d’œil assumé à l’esthétique rétro-futuriste des films de science-fiction de série B et des jeux vidéo vintage des années 80-90. Ce nom a été choisi pour plusieurs raisons stratégiques :
 
 - Le rétro-gaming et l’univers néo-vintage sont très populaires chez les jeunes générations, en particulier chez les lycéens intéressés par les filières techniques ou numériques. Cela crée un lien culturel immédiat avec l’univers visuel et affectif des publics cibles.
 - C’est aussi un clin d’œil ludique aux générations plus âgées, encadrants pédagogiques et développeurs, qui y verront une référence ironique aux titres comme RoboCop, Mototron, ou Megatron 3000.
 - Ce côté kitsch et second degré a un fort pouvoir d’attractivité dans l’univers open source, souvent sensible à la culture geek, aux blagues techniques et aux projets qui assument leur identité avec humour tout en servant une cause utile.
 
 
-En résumé, Motivator3000, c’est un nom qui :
+En résumé, Motivator 3000, c’est un nom qui :
 - donne envie de contribuer à un outil libre sympa et utile,
 - crée de la curiosité et du capital sympathie,
 - affirme une identité décomplexée et accessible, tout en assumant la puissance technique de l’IA embarquée.
@@ -67,7 +67,7 @@ Développer un assistant logiciel local et libre, capable d’aider les lycéen
 - mettre en avant les compétences issues de leurs référentiels de formation.
  
 ## Un assistant boosté à l’IA (mais en local)
-Le cœur de Motivator3000 repose sur une IA embarquée, renforcée par une architecture RAG (Retrieval-Augmented Generation).
+Le cœur de Motivator 3000 repose sur une IA embarquée, renforcée par une architecture RAG (Retrieval-Augmented Generation).
 
 
 Le système permet à l’IA de générer des textes contextualisés à partir :
@@ -76,7 +76,7 @@ Le système permet à l’IA de générer des textes contextualisés à partir
 - de modèles de CV/lettres adaptés aux standards professionnels.
  
 ## RGPD et souveraineté numérique : priorité absolue
-Motivator3000 fonctionne 100% en local, sans traitement distant, afin de garantir :
+Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garantir :
 - le respect du RGPD, en particulier pour les élèves mineurs (moins de 16 ans),
 - la maîtrise complète des données, sans cloud, sans inscription, sans tracking,
 - la possibilité de déploiement même sans connexion internet (réseau local ou poste unique).
@@ -87,7 +87,7 @@ Tous les développements sont publiés sous AGPL v3, pour permettre :
 - aux enseignants, responsables de BDE ou DDFPT et développeurs de l’adapter et l’enrichir,
 - à la communauté de partager les améliorations en toute liberté.
 
-# Motivator3000, le point sur le projet :
+# Motivator 3000, le point sur le projet :
 Ce qui a été fait pour l’instant, ou est en cours de réalisation
  
 ## Exploration des modèles IA open source adaptés à un usage local
@@ -126,7 +126,7 @@ Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suf
 
 
 # Licence et propriété intellectuelle
-Motivator3000 - l'assistant numérique pour une pfmp réussie
+Motivator 3000 - l'assistant numérique pour une pfmp réussie
 
 Copyright (C) 2025 Lycée Louis de Cormontaigne - Matthieu Farcot
 
