@@ -165,6 +165,7 @@ Acceptable
 # Llama 3.3 70B 
 ## **NON UTILISABLE**
 
+A fait crasher notre ordinateur de tests... Il semblerait que 32 Gb de RAM soit trop juste.
 
 # Deepseek r1-0528
 
