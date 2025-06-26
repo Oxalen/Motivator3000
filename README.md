@@ -125,6 +125,7 @@ Cela justifie pleinement l’adoption d’une architecture RAG (Retrieval-Augme
  
 ## Conception d’un système de prompt structuré
 Objectif : formuler des instructions claires et précises pour guider les modèles dans leurs productions (system prompt).
+
 Actions menées :
 - Définition de plusieurs types de prompts : création de CV, lettre pour une alternance, lettre pour un stage, mise en valeur d’un projet scolaire, etc.
 - Création de gabarits de prompt intégrant les données contextuelles (niveau d’étude, spécialité, type de poste ciblé, référentiel).
