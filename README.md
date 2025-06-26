@@ -99,7 +99,7 @@ Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garan
 ## Open Source et licence libre
 Tous les développements sont publiés sous AGPL v3, pour permettre :
 - aux autres lycées et structures de déployer librement l’outil,
-- aux enseignants, responsables de BDE ou DDFPT et développeurs de l’adapter et l’enrichir (par exemple avec d'autres référentiels académiques),
+- aux enseignants, responsables de BDE ou DDFPT et développeurs de l’adapter et l’enrichir (par exemple avec d'autres référentiels académiques pour l'adapter à d'autres secteurs de formation),
 - à la communauté de partager les améliorations en toute liberté.
 
 # Motivator 3000, le point sur le projet :
