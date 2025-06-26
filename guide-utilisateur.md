@@ -134,3 +134,5 @@ Motivator 3000 est un outil conçu pour :
 - Trouver une entreprise qui vous correspond  
 
 Il vous guide à chaque étape, avec des propositions adaptées à votre profil et à vos projets.
+
+Et en plus, il garde toutes vos données privées ! Donc vie privée assurée !
