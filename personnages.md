@@ -43,7 +43,11 @@ Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui 
 ## Lenny Talie
 
 <img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="200">
-Lenny Talie, 17 ans, est en terminale BAC PRO MELEC
+Lenny Talie a 17 ans et termine sa terminale bac pro MELEC au lycée Louis de Cormontaigne à Metz. Depuis la seconde, il s’est passionné pour l’électricité, un domaine qu’il trouve “logique, concret, utile”. Dans l’atelier du lycée, il est à l’aise : tirage de câbles, pose d’appareillages, lecture de plans… c’est là qu’il se sent à sa place.
+
+Lenny n’est pas du genre à faire des grands discours, mais il est régulier, discret et sérieux. Ses professeurs apprécient sa rigueur et sa capacité à travailler en autonomie. Il a effectué plusieurs stages en entreprise pendant son bac pro, notamment dans une PME locale spécialisée en installation électrique dans le tertiaire. C’est là qu’il a compris qu’il voulait aller plus loin.
+
+Plutôt que de partir directement en entreprise après le bac, Lenny veut poursuivre en BTS Électrotechnique en apprentissage. Il veut consolider ses bases, apprendre à dimensionner des installations plus complexes, et surtout se rapprocher du métier de technicien. L’alternance l’attire : “apprendre à l’école, appliquer sur le terrain, c’est comme ça que je retiens le mieux”.
 
 
 
