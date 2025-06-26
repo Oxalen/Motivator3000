@@ -37,6 +37,9 @@ Elle n’est pas la plus forte en cours, mais elle écoute, elle apprend, et ell
 
 Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui avance à son rythme, et qui veut juste un métier stable dans un domaine qui lui plaît.
 
+
+
+
 ## Lenny Talie
 
 <img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="500">
