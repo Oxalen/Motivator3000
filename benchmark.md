@@ -31,7 +31,7 @@ Google
 
 - très rapide
 
-## Exemple de lettre
+## Exemple de lettre générée
 ```
 Anna Logie
 220 Rue des Éléphants
@@ -86,7 +86,7 @@ Alibaba Cloud
 - très lente
 27.5 secondes
 
-## Exemple de lettre
+## Exemple de lettre générée
 ```
 À l’attention de l’équipe de recrutement de LDLC,
 
@@ -127,7 +127,7 @@ Acceptable
 
 - lente
 - 
-## Exemple de lettre
+## Exemple de lettre générée
 ```
 Anna Logie
 220 Rue des Éléphants
@@ -183,7 +183,7 @@ A fait crasher notre ordinateur de tests... Il semblerait que 32 Gb de RAM soit 
 
 9.26 secondes
 
-## Exemple de lettre
+## Exemple de lettre générée
 ```
 Objet : Expression de candidature au titre d’une Période de Formation en Milieu Professionnel (PFMP)
 
