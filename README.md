@@ -4,7 +4,7 @@
 
 ![Logo](./pictures/Motivator3000-Logo1.png "Logo")
 
-Motivator 3000 est un projet du *Cormont Computer Club*. 
+Motivator 3000 est un projet du *Cormont Computer Club* du lycée Louis de Cormontaigne (Metz).
 
 # Introduction au projet
 
