@@ -36,6 +36,10 @@ La majorité des modèles produisent du texte en s’appuyant sur des probabilit
 
 Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui impact négativement leur crédibilité.
 
+### IA, synonyme d'hallucinantes hallucinations 
+
+
+
 ### IA, synonyme de normalisation de la mort de la vie privée 
 
 *A developper*
