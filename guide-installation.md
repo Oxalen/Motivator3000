@@ -24,15 +24,15 @@ Lorsque l’installation est terminée, cliquez sur **Terminer** puis lancez le 
 
 ### Étape 7  
 Une fois le logiciel ouvert, appuyez sur **Ctrl + L** ou cliquez en haut de la page sur **"Select a model to load"** pour choisir un modèle à charger.
-(https://github.com/user-attachments/assets/d9991043-eb44-4947-ae81-c7671cbf22ab)
+![image](https://github.com/user-attachments/assets/2eb729c0-81ed-425f-9289-d01cfa37e8fd)
 
 ### Étape 8  
 Dans la liste des modèles disponibles, cliquez sur **"Gemma 3 12B"** pour le sélectionner.
-(https://github.com/user-attachments/assets/7aff37f3-0e40-4626-9645-3b7ff9656d80)
+![image](https://github.com/user-attachments/assets/88482e25-0112-47c5-8fb9-266d1aabbe0d)
 
 ### Étape 9  
 Une fois le modèle chargé, rendez-vous en haut à droite de l’interface et cliquez sur **"System Prompt"** pour accéder aux paramètres du prompt système.
-(https://github.com/user-attachments/assets/f4fc8ba3-ca55-4083-a314-75556667512b)
+![image](https://github.com/user-attachments/assets/79c770d8-a069-417f-bafa-e6754ee35b75)
 
 ### Étape 10  
 Copiez-collez le **System Prompt** disponible sur la page GitHub du projet dans le champ prévu à cet effet.
