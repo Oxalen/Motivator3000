@@ -30,6 +30,7 @@ Cette standardisation garantit une interopérabilité pédagogique et une contin
 
 <img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="500">
 Anna Logie a 16 ans. Elle est en première Bac Pro CIEL au lycée Louis de Cormontaigne à Metz.
+
 Pas une intello, pas une fainéante non plus. Elle fait son taf, sans trop se prendre la tête.
 
 Elle aime bien bricoler les câbles, comprendre comment fonctionnent les réseaux, et toucher à l’informatique. Ce qu’elle préfère, c’est quand il faut manipuler, monter un circuit, ou régler un souci sur une machine.
