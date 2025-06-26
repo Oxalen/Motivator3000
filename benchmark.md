@@ -12,6 +12,17 @@
 
 Cette page a pour but de regrouper les resultats des benchmarks d'évaluation des différentes IA utilisées pour la mise en oeuvre de Motivator 3000
 
+# Caractéristiques de l'ordinateur utilisé
+
+OS : Windows 11 Pro, 23H2
+Processeur	12th Gen Intel(R) Core(TM) i7-12700K   3.60 GHz
+Mémoire RAM installée	32,0 Go 
+ID de périphérique	32F867F1-CEFD-41E8-A12E-91068531723F
+ID de produit	00330-80000-00000-AA548
+Type du système	Système d’exploitation 64 bits, processeur x64
+Stylet et fonction tactile	Prise en charge de la fonction tactile avec 2 points de contact
+
+
 # Gemma 3-12b
 
 ## Editeur
