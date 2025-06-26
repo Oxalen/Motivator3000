@@ -86,7 +86,7 @@ Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garan
 - le respect du RGPD, en particulier pour les élèves mineurs (en particulier les élèves de moins de 16 ans),
 - la maîtrise complète des données, sans cloud, sans inscription, sans tracking,
 - la possibilité de déploiement même sans connexion internet (réseau local ou poste unique),
-- l'absence de stockage des ressources échangées, donc de toutes les donnees y inclut les données personnelles (les CVs mis à disposition par un élève ou généré par la plateforme ne sont pas conservés).
+- l'absence de stockage des ressources échangées, donc de toutes les donnees y inclut les données personnelles (par exemple les CVs mis à disposition par un élève ou générés par la plateforme ne sont pas conservés).
  
 ## Open Source et licence libre
 Tous les développements sont publiés sous AGPL v3, pour permettre :
