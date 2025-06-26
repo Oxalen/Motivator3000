@@ -86,8 +86,10 @@ Le cœur de Motivator 3000 repose sur une IA embarquée, renforcée par une a
 
 Le système permet à l’IA de générer des textes contextualisés à partir :
 - des référentiels officiels des filières professionnelles,
-- des annonces fournies par les élèves (PDF, copier/coller, etc.),
+- des annonces et contenu existant fournis par les élèves (PDF, copier/coller, etc.),
 - de modèles de CV/lettres adaptés aux standards professionnels.
+
+Le système permet aussi à l'IA de donner des conseils : en soumettant un cv et une offre d'emploi, il est possible de lui demander des avis sur les points forts et les aspects manquants à la candidature.
  
 ## RGPD : priorité absolue
 Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garantir :
