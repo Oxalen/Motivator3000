@@ -109,8 +109,8 @@ Modèles testés :
 1. Gemma (gemma-3-27b et gemma-3-12b)
 2. Mistral (mistral-small-3.2)
 3. LLaMA (llama-3.3-70b)
-4.  DeepSeek (deepseek-r1-0528-qwen3-8b)
-5.  Qwen (qwen3-8b)
+4. DeepSeek (deepseek-r1-0528-qwen3-8b)
+5. Qwen (qwen3-8b)
 
 
 Critères évalués :
