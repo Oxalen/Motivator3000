@@ -37,3 +37,13 @@ Elle n’est pas la plus forte en cours, mais elle écoute, elle apprend, et ell
 
 Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui avance à son rythme, et qui veut juste un métier stable dans un domaine qui lui plaît.
 
+## Lenny Talie
+
+<img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="500">
+Lenny Talie, 17 ans, est lui aussi en Première Bac Pro CIEL à Cormontaigne. Il est arrivé là un peu par hasard au départ — il aimait bien “bidouiller” les ordis chez lui, démonter des manettes, pirater sa console… Alors quand il a vu “informatique” et “électronique” dans le nom de la filière, il a tenté.
+
+Pas très scolaire, pas trop patient non plus, mais il a du flair. Quand un truc plante, il met les mains dedans, il teste, il comprend vite — même s’il n’a pas lu la consigne. Lenny est plus à l’aise avec les câbles qu’avec les mots.
+Il n’aime pas trop écrire des rapports, mais il sait configurer un routeur en 5 minutes et faire marcher un vieux PC qui ne répond plus.
+
+
+
