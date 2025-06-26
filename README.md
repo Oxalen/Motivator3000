@@ -44,7 +44,7 @@ Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outi
 
 *A developper*
 
-## Motivator 3000 : une réponse adaptée, locale et intelligente
+## Motivator 3000 : une réponse adaptée, locale et "intelligente"
 La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
 - contextualisé : il s’appuie sur les référentiels officiels des formations suivies par les élèves,
 - personnalisé : il tient compte du profil de chaque utilisateur et de l’annonce à laquelle il répond,
