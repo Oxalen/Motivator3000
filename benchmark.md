@@ -17,7 +17,7 @@ Cette page a pour but de regrouper les resultats des benchmarks d'évaluation de
 #### OS : Windows 11 Pro, 23H2
 #### Processeur	12th Gen Intel(R) Core(TM) i7-12700K   3.60 GHz
 #### Mémoire RAM installée	32,0 Go 
-#### NVIDIA GeForce RTX 3060
+#### NVIDIA GeForce RTX 3060, 12 Gb de RAM
 #### Type du système	Système d’exploitation 64 bits, processeur x64
 #### Stylet et fonction tactile	Prise en charge de la fonction tactile avec 2 points de contact
 
