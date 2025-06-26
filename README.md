@@ -30,7 +30,7 @@ La majorité des modèles produisent du texte en s’appuyant sur des probabilit
 - de cohérence métier (liens entre formation et mission de stage),
 - de personnalité (langage, centres d’intérêt, projet professionnel).
 
-Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui impact négativement leur crédibilité.
+Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui impact négativement la crédibilité de la production.
 
 ### IA, synonyme d'hallucinantes hallucinations 
 
