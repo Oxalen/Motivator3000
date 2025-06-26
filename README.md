@@ -44,13 +44,13 @@ A l'heure actuelle, toute IA est assujettie aux phénomènes d'hallucinations - 
 
 La plupart des conditions générales d'utilisation (CGU) des IA généralistes accessibles via Internet sont explicites quand à la nature non confidentielle des données utilisées en entrée ou générées en sortie par leurs systèmes. Il est intérressant de noter que ces plate-formes semblent être assujetties à un trouble dissociatif de la personnalité (somme toute plutot classique à l'ère du Cloud) entre le discours commercial affiché qui insistera sur le respect de la vie privée, de la confidentialité des échanges (ou du contenu généré) et la transposition des ces "valeurs" dans le cadre légal d'utilisation de la même plate-forme qui renie tout cela sans état d'âme en se justifiant avec la notion d'intérêt légitime.
 
-Nous pourrons citer par exemple la politique de confidentialité dans sa version effective au 27 mai 2025 de Mistral AI. Dans sa section "[3. Pourquoi utilisons-nous vos données personnelles ?](https://mistral.ai/fr/terms#privacy-policy)", il est indiqué que "pour entraîner les modèles d’intelligence artificielle sont utilisées avec *l'accord de l'utilisateur*" les "données personnelles éventuellement incluses dans des données publiquement accessibles sur Internet (...) et (les) données d’entrée et de sortie" (sous réserve d'un droit d’opposition et dans le cas de l'usage de la version gratuite du web service).
+Nous pourrons citer par exemple la politique de confidentialité dans sa version effective au 27 mai 2025 de Mistral AI. Passé la page d'accueil du site qui insiste sur la protection de la vie privée et la confidentialité, ce service dans sa section "[3. Pourquoi utilisons-nous vos données personnelles ?](https://mistral.ai/fr/terms#privacy-policy)", indique que "pour entraîner les modèles d’intelligence artificielle sont utilisées avec *l'accord de l'utilisateur*" les "données personnelles éventuellement incluses dans des données publiquement accessibles sur Internet (...) et (les) données d’entrée et de sortie" (sous réserve d'un droit d’opposition et dans le cas de l'usage de la version gratuite du web service).
 
-La problématique est similaire pour les services d'accès à des IA d'entreprises américaines comme chatGPT ou Claude.
+La problématique est similaire (voir encore plus problématique) pour les services d'accès et d'usage d'IA d'entreprises américaines comme chatGPT ou Claude.
 
-Plus largement, autant la [CNIL](https://www.cnil.fr/fr/deux-faq-utilisation-des-systemes-dia-scolaire) que le [ministère de l'éducation nationale](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647) ont émis des recommendations claires sur ce sujet qui vont dans le sens d'un projet comme Motivator 3000 : il est conseiller de renoncez aux IA "grand public" (donc en ligne) quand des données personnelles sont en jeu.
+Plus largement, autant la [CNIL](https://www.cnil.fr/fr/deux-faq-utilisation-des-systemes-dia-scolaire) que le [ministère de l'éducation nationale](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647) ont émis des recommendations claires sur ce sujet qui vont dans le sens d'un projet comme Motivator 3000 : il est recommandé de renoncer aux IA "grand public" (donc en ligne) quand des données personnelles sont en jeu dans le cadre scolaire.
 
-
+La raison est simple. La protection de la vie privée et des données personnelles n'est pas qu'une norme. Cela doit être une règle absolue (en accord avec le RGPD).
 
 ## Motivator 3000 : une réponse adaptée, locale et "intelligente"
 La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
@@ -59,7 +59,7 @@ La plateforme Motivator 3000 a été conçue précisément pour répondre à ces
 - local : tout fonctionne sans connexion internet, sans cloud, dans le respect total du RGPD,
 - libre : le projet est open source, modifiable, auditable, installable et utilisable le tout gratuitement dans n’importe quel établissement.
 
-En combinant la puissance de l’intelligence artificielle avec une architecture RAG (Retrieval-Augmented Generation) et un ancrage fort dans les parcours des lycéens, Motivator 3000 permet enfin de produire des lettres et des CV crédibles, valorisants et réellement adaptés aux ambitions de chaque élève.
+En combinant la puissance de l’intelligence artificielle avec (à terme) une architecture RAG (Retrieval-Augmented Generation) et un ancrage fort dans les parcours des lycéens, Motivator 3000 permettra enfin de produire des lettres et des CV crédibles, valorisants et réellement adaptés aux ambitions de chaque élève.
 
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
 
