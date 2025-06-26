@@ -91,7 +91,7 @@ Le système permet à l’IA de générer des textes contextualisés à partir
  
 ## RGPD : priorité absolue
 Motivator 3000 fonctionne 100% en local, sans traitement distant, afin de garantir :
-- le respect du RGPD, en particulier pour les élèves mineurs (en particulier les élèves de moins de 16 ans),
+- le respect du RGPD, en particulier pour les élèves mineurs (certains des élèves considérés ont moins de 16 ans),
 - la maîtrise complète des données, sans cloud, sans inscription, sans tracking,
 - la possibilité de déploiement même sans connexion internet (réseau local ou poste unique),
 - l'absence de stockage des ressources échangées, donc de toutes les donnees y inclut les données personnelles (par exemple les CVs mis à disposition par un élève ou générés par la plateforme ne sont pas conservés).
