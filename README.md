@@ -103,7 +103,7 @@ Tous les développements sont publiés sous AGPL v3, pour permettre :
 - à la communauté de partager les améliorations en toute liberté.
 
 # Motivator 3000, le point sur le projet :
-Ce qui a été fait pour l’instant, ou est en cours de réalisation
+Ce qui a été fait pour l’instant, ou est en cours de réalisation...
  
 ## Exploration des modèles IA open source adaptés à un usage local
 Objectif : identifier des modèles de langage suffisamment puissants pour générer des contenus personnalisés (CV, lettres de motivation), mais légers et respectueux des contraintes locales (pas de cloud, pas de dépendance à des API commerciales).
