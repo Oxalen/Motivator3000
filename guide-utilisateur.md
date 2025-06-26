@@ -67,7 +67,38 @@ Motivator 3000 fournit aussi des conseils pour :
 
 ---
 
-## 4. Conseils d’utilisation
+## 4. Bien utiliser le LLM (modèle de langage)
+
+Motivator 3000 intègre un assistant conversationnel intelligent basé sur un LLM. Voici comment l’utiliser efficacement :
+
+### 4.1 Poser des questions claires
+
+Formulez des phrases complètes pour que le modèle comprenne bien votre demande.  
+**Exemples :**  
+- Mauvais : *CV stage*  
+- Meilleur : *Peux-tu m’aider à créer un CV pour un stage dans le domaine de l’électronique ?*
+
+### 4.2 Fournir du contexte
+
+Plus vous donnez d’informations, plus les réponses seront précises.  
+**Exemple :**  
+> *J’ai 16 ans, je suis en 1re MELEC, j’ai travaillé sur un projet de tableau électrique en classe. J’aimerais postuler dans une entreprise de maintenance industrielle. Peux-tu m’aider à rédiger une lettre de motivation ?*
+
+### 4.4 Relire et ajuster
+
+Les textes générés sont des bases. Vous pouvez :
+
+- Corriger ou adapter le vocabulaire  
+- Ajouter des détails personnels  
+- Supprimer ce qui ne vous correspond pas  
+
+### 4.5 Lui faire poser des questions
+
+Afin de rendre plus précis et moins générique votre CV et/ou votre lettre de motivation vous pouvez demander à Motivator 3000 de vous poser des questions afin d'ajuster en fonction vos documents. 
+
+---
+
+## 5. Conseils d’utilisation
 
 - **Soyez précis** : plus vos réponses sont détaillées, plus l’assistant pourra personnaliser son aide.  
 - **Réfléchissez à vos projets** : pensez aux activités ou réalisations que vous pouvez valoriser, même en dehors du lycée.  
@@ -76,24 +107,24 @@ Motivator 3000 fournit aussi des conseils pour :
 
 ---
 
-## 5. Exemple d’utilisation
+## 6. Exemple d’utilisation
 
-### 5.1 Identifier ses compétences
+### 6.1 Identifier ses compétences
 > Vous indiquez avoir travaillé sur un projet de domotique en classe.  
 > Motivator 3000 vous suggère les compétences associées : câblage, schématisation, programmation, communication technique.
 
-### 5.2 Rédiger un objectif professionnel
+### 6.2 Rédiger un objectif professionnel
 > Vous souhaitez travailler dans l’installation d’équipements connectés.  
 > L’outil vous aide à formuler :  
 > *Je souhaite intégrer une entreprise spécialisée dans les systèmes domotiques afin de développer mes compétences en installation, configuration et maintenance de dispositifs connectés.*
 
-### 5.3 Créer un CV
+### 6.3 Créer un CV
 > Vous choisissez un format par compétences.  
 > Motivator 3000 vous propose un CV avec vos informations personnelles, vos compétences triées par domaine, une expérience scolaire mise en valeur et un objectif professionnel.
 
 ---
 
-## 6. En résumé
+## 7. En résumé
 
 Motivator 3000 est un outil conçu pour :
 
