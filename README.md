@@ -121,6 +121,8 @@ Critères évalués :
 - Qualité de génération (fluidité, structure)
 - Capacité à tourner en local (sur CPU ou GPU)
 - Volume mémoire et performance sur machine (très) modeste
+- Capacité à suivre les instructions (system prompt)
+- Influence des réglages de temperature du modèle (influence sur le niveau de créativité)
 
 Pour retrouver ces évaluation, [rendez-vous sur la page dédiée](./benchmark.md).
  
