@@ -2,10 +2,12 @@
 
 ## 1. C’est quoi Motivator 3000 ?
 
-Motivator 3000 est un assistant qui t’aide à trouver ton stage (ta PFMP) ou un apprentissage au lycée Louis de Cormontaigne, que tu sois en : 
+Motivator 3000 est un assistant qui t’aide à trouver ton stage (ta PFMP) ou (si applicable) un apprentissage au lycée Louis de Cormontaigne, que tu sois en : 
+
 TNE (Transition Numérique Energétique)
 CIEL (Cybersécurité Informatique Electronique et Réseaux)
 MELEC (Métiers de l'Electricité et des Environnements Connectés) 
+
 Il te guide pour :
 
 - Découvrir tes compétences (ce que tu sais faire)
