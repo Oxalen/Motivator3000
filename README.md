@@ -42,10 +42,11 @@ Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outi
 
 ## Motivator 3000 : une réponse adaptée, locale et intelligente
 La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
-contextualisé : il s’appuie sur les référentiels officiels des formations suivies par les élèves,
-personnalisé : il tient compte du profil de chaque utilisateur et de l’annonce à laquelle il répond,
-local : tout fonctionne sans connexion internet, sans cloud, dans le respect total du RGPD,
-libre : le projet est open source, modifiable, installable dans n’importe quel établissement.
+- contextualisé : il s’appuie sur les référentiels officiels des formations suivies par les élèves,
+- personnalisé : il tient compte du profil de chaque utilisateur et de l’annonce à laquelle il répond,
+- local : tout fonctionne sans connexion internet, sans cloud, dans le respect total du RGPD,
+- libre : le projet est open source, modifiable, auditable, et installable dans n’importe quel établissement.
+
 En combinant la puissance de l’intelligence artificielle avec une architecture RAG (Retrieval-Augmented Generation) et un ancrage fort dans les parcours des lycéens, Motivator 3000 permet enfin de produire des lettres et des CV crédibles, valorisants et réellement adaptés aux ambitions de chaque élève.
 
 C’est une solution concrète pour accompagner les jeunes dans leurs premières démarches professionnelles — sans copier-coller impersonnel, sans cloud, et sans renoncer à l’exigence de qualité.
