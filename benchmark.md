@@ -20,7 +20,7 @@ Google
 
 ## Licence
 
-(https://ai.google.dev/gemma/terms)
+[cliquez ici pour les termes de la licence](https://ai.google.dev/gemma/terms)
 
 ## Quantité de RAM utilisée
 
@@ -73,8 +73,8 @@ Acceptable
 Alibaba Cloud
 
 ## Licence
-[
-(https://huggingface.co/Qwen/Qwen-14B/blob/main/LICENSE)
+
+[cliquez ici pour les termes de la licence](https://huggingface.co/Qwen/Qwen-14B/blob/main/LICENSE)
 
 ## Quantité de RAM utilisée
 
@@ -117,7 +117,7 @@ Acceptable
 
 ## Licence
 
-(https://mistral.ai/fr/terms#terms-of-service)
+[cliquez ici pour les termes de la licence](https://mistral.ai/fr/terms#terms-of-service)
 
 ## Quantité de RAM utilisée
 
@@ -171,7 +171,7 @@ A fait crasher notre ordinateur de tests... Il semblerait que 32 Gb de RAM soit 
 
 ## Licence
 
-(https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)
+[cliquez ici pour les termes de la licence](https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html)
 
 ## Quantité de RAM utilisée
 
