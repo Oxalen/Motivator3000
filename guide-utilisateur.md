@@ -13,7 +13,7 @@ Il te guide pour :
 - Découvrir tes compétences (ce que tu sais faire)
 - Mettre en valeur tes projets scolaires ou personnels
 - Trouver des idées pour ton avenir professionnel
-- Créer un CV adapté à ton niveau
+- Créer un CV et/ou une lettre de motivation adaptée à ton niveau
 - Avoir des conseils pour contacter les entreprises
 
 ---
