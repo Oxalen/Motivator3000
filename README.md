@@ -111,7 +111,7 @@ Critères évalués :
 
 Pour retrouver ces évaluation, [rendez-vous sur la page dédiée](./benchmark.md).
  
-Constat :  Malgré des performances linguistiques solides, les réponses produites par les modèles testés sont trop déterministes et génériques. Les lettres générées manquent de variabilité, d’originalité et surtout de prise en compte réelle du contexte scolaire et professionnel des lycéens. On observe que, quelle que soit l’annonce ou le profil fourni, les lettres finissent par se ressembler fortement, avec des tournures stéréotypées et un contenu creux. Toutefois, vu les perfromances et les résultats obtenus, le choix pour l'instant porte du Gemma-2-9b de google.
+Constat :  Malgré des performances linguistiques solides, les réponses produites par les modèles testés sont trop déterministes et génériques. Les lettres générées manquent de variabilité, d’originalité et surtout de prise en compte réelle du contexte scolaire et professionnel des lycéens. On observe que, quelle que soit l’annonce ou le profil fourni, les lettres finissent par se ressembler fortement, avec des tournures stéréotypées et un contenu creux. Toutefois, vu les perfromances et les résultats obtenus, le choix pour l'instant porte du Gemma-3-12b de google.
 
 
 Globalement, ce comportement souligne les limites d’un modèle généraliste non enrichi, incapable d’ajuster sa réponse en fonction de référentiels métier ou de parcours spécifiques.  
