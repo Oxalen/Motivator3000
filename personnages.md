@@ -45,14 +45,14 @@ Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui 
 <img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="200">
 Lenny Talie a 17 ans et termine sa terminale bac pro MELEC au lycée Louis de Cormontaigne à Metz. Depuis la seconde, il s’est passionné pour l’électricité, un domaine qu’il trouve “logique, concret, utile”. Dans l’atelier du lycée, il est à l’aise : tirage de câbles, pose d’appareillages, lecture de plans… c’est là qu’il se sent à sa place.
 
-Lenny n’est pas du genre à faire des grands discours, mais il est régulier, discret et sérieux. Ses professeurs apprécient sa rigueur et sa capacité à travailler en autonomie. Il a effectué plusieurs stages en entreprise pendant son bac pro, notamment dans une PME locale spécialisée en installation électrique dans le tertiaire. C’est là qu’il a compris qu’il voulait aller plus loin.
+Lenny n’est pas du genre à faire des grands discours, mais il est régulier, discret et sérieux. Ses professeurs apprécient sa rigueur et sa capacité à travailler en autonomie. Il a effectué plusieurs PFMP en entreprise pendant son bac pro, notamment dans une PME locale spécialisée en installation électrique dans le tertiaire. C’est là qu’il a compris qu’il voulait aller plus loin.
 
 Plutôt que de partir directement en entreprise après le bac, Lenny veut poursuivre en BTS Électrotechnique en apprentissage. Il veut consolider ses bases, apprendre à dimensionner des installations plus complexes, et surtout se rapprocher du métier de technicien. L’alternance l’attire : “apprendre à l’école, appliquer sur le terrain, c’est comme ça que je retiens le mieux”.
 
 
 
 ## Frank Roissant
-<img align="left" src="https://github.com/user-attachments/assets/eff609c2-8440-4963-bb13-b17ab570b790" height ="200">
+<img align="right" src="https://github.com/user-attachments/assets/eff609c2-8440-4963-bb13-b17ab570b790" height ="200">
 Frank Roissant, 15 ans, est un élève de seconde pro TNE au lycée Louis de Cormontaigne à Metz. Curieux de nature, il s’est orienté vers cette filière pour comprendre comment fonctionnent les technologies qui nous entourent, des panneaux solaires aux réseaux informatiques.
 
 Toujours en basket et sac à dos en bandoulière, Frank est un peu discret mais très observateur. Il adore démonter de vieux appareils chez lui pour voir comment tout est câblé à l’intérieur. Son rêve ? Travailler plus tard dans la domotique ou les énergies renouvelables, “quelque chose d’utile et concret”, comme il le dit.
