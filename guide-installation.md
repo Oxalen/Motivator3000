@@ -90,9 +90,3 @@ Vous pouvez ajuster :
 - Utilisez des prompts clairs et contextualisés
 
 ---
-
-## En cas de problème
-
-- Vérifiez que votre antivirus ou pare-feu ne bloque pas LM Studio
-- Consultez la [FAQ officielle](https://lmstudio.ai/docs)
-- Rejoignez la communauté via Discord ou GitHub pour obtenir de l’aide
