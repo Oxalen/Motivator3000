@@ -1,152 +1,161 @@
-# Guide utilisateur – Motivator 3000
+# Guide de survie pour utiliser Motivator 3000 (sans stress)
 
-## 1. C’est quoi Motivator 3000 ?
+## 1. C’est quoi Motivator 3000 ? (non, ce n’est pas un robot tueur)
 
-Motivator 3000 est un assistant qui t’aide à trouver ton stage (ta PFMP) ou (si applicable) un apprentissage au lycée Louis de Cormontaigne, que tu sois en : 
+Motivator 3000, c’est ton assistant perso pour t’aider à trouver ton stage (ta PFMP) ou un apprentissage, si tu es au lycée Louis de Cormontaigne.  
+Que tu sois en :
 
-- **TNE (Transition Numérique Energétique**
-- **CIEL (Cybersécurité Informatique Electronique et Réseaux)**
-- **MELEC (Métiers de l'Electricité et des Environnements Connectés)**
+- **TNE** (Transition Numérique et Énergétique)
+- **CIEL** (Cybersécurité, Informatique, Électronique et Réseaux)
+- **MELEC** (Métiers de l’Électricité et des Environnements Connectés)
 
-Il te guide pour :
+... Motivator 3000 est là pour t’aider à :
 
-- Découvrir tes compétences (ce que tu sais faire)
-- Mettre en valeur tes projets scolaires ou personnels
-- Trouver des idées pour ton avenir professionnel
-- Créer un CV et/ou une lettre de motivation adaptée à ton niveau
-- Avoir des conseils pour contacter les entreprises
-
----
-
-## 2. À qui sert ce guide ?
-
-Ce guide est fait pour les élèves de lycée pro ou techno qui veulent :
-
-- Être aidés pour chercher un stage
-- Mieux se connaître et savoir parler de leur parcours
-- Créer un bon CV et une lettre de motivation
+- Repérer tes compétences (même celles que tu n’as pas captées)
+- Valoriser tes projets (même ton site web Minecraft compte)
+- Trouver ce que tu veux faire plus tard (oui, même si tu hésites)
+- Créer un CV et une lettre de motivation propres, claires et pros
+- Avoir des conseils pour contacter les entreprises (sans stresser)
 
 ---
 
-## 3. Ce que Motivator 3000 peut faire
+## 2. Pour qui est ce guide ? (Spoiler : pour toi)
 
-### 3.1 Trouver tes compétences
+Ce guide est là pour toi si tu es :
 
-Motivator 3000 te pose des questions simples pour savoir ce que tu sais faire, même si tu ne t’en rends pas compte.  
-Il s’appuie sur les programmes suivants :
+- Perdu(e) dans ta recherche de stage
+- Pas sûr(e) de comment parler de ton parcours
+- En galère pour faire un CV et une lettre de motivation
 
-- **TNE** : Transition Numérique et Énergétique  
-- **CIEL** : Cybersécurité, Informatique, Réseaux, Électronique  
-- **MELEC** : Électricité et objets connectés  
-
-Tu peux choisir les compétences que tu as apprises en cours, en atelier, ou même chez toi.
-
-### 3.2 Parler de tes projets
-
-Tu peux expliquer ce que tu as fait : un site web, un branchement électrique, un montage de PC, un petit robot…  
-Motivator 3000 t’aide à bien décrire ce que tu as fait pour que ça donne envie à une entreprise.
-
-### 3.3 Trouver ton objectif professionnel
-
-Tu peux dire ce que tu aimerais faire plus tard (le type de métier ou d’entreprise).  
-Motivator 3000 t’aide à écrire une phrase claire que tu pourras mettre dans ton CV ou dire à l’oral.
-
-### 3.4 Créer un CV facile à lire
-
-Avec tes infos, Motivator 3000 prépare un CV clair et propre :
-
-- En choisissant les bonnes rubriques
-- En mettant en avant ce que tu sais faire
-- En utilisant des phrases simples mais valorisantes
-
-Tu peux télécharger ton CV et le modifier si besoin.
-
-### 3.5 Préparer ta recherche d’entreprise
-
-Motivator 3000 peut te donner :
-
-- Des idées d’entreprises à contacter
-- Des conseils pour parler de toi
-- Des phrases pour te présenter ou écrire une lettre de motivation
+Pas besoin d’être un pro, ni un as de la com’ : tout est expliqué pas à pas.
 
 ---
 
-## 4. Bien parler avec l’assistant (LLM)
+## 3. Ce que sait faire Motivator 3000 (c’est pas magique, mais presque)
 
-Motivator 3000 utilise une intelligence artificielle (un assistant de type "chat") qui répond à tes questions. Voici comment bien discuter avec lui.
+### 3.1 Trouver tes compétences (même celles que t’oublies)
 
-### 4.1 Pose des questions claires
+Motivator 3000 te pose des questions simples pour découvrir ce que tu sais faire.  
+Même les trucs que tu crois peuvent être utiles sur ton CV.
 
-Écris des phrases complètes, comme si tu parlais à un professeur.
+Il connaît bien les programmes de ta filière :
+
+- **TNE** : énergie et numérique
+- **CIEL** : sécurité informatique, réseau, montage de matos
+- **MELEC** : installation, câblage, objets connectés
+
+Tu peux parler de ce que tu fais en cours, en atelier, ou même chez toi (oui, réparer la box de mamie, ça compte).
+
+### 3.2 Mettre en valeur tes projets (genre ton robot qui évite les murs)
+
+Tu racontes un projet que t’as fait, et Motivator 3000 t’aide à le décrire de façon pro.  
+Pas besoin d’un langage d’ingé, juste d’expliquer ce que t’as fait et pourquoi c’était utile ou cool.
+
+### 3.3 Définir ton objectif pro (même si t’es pas encore sûr)
+
+T’as pas besoin de savoir exactement ce que tu veux faire, mais Motivator peut t’aider à écrire une phrase claire qui montre dans quelle direction tu veux aller.  
+Genre : *Je veux travailler dans une entreprise d’électricité pour apprendre à installer et dépanner des systèmes connectés.*
+
+### 3.4 Créer un CV lisible (et pas moche)
+
+Avec tes réponses, Motivator 3000 peut :
+
+- Te faire un CV avec une belle structure
+- Mettre en avant tes vraies compétences
+- Utiliser un vocabulaire simple et pro (pas besoin de copier ton prof de français)
+
+Tu peux ensuite l’imprimer, le modifier, ou l’envoyer aux entreprises.
+
+### 3.5 T’aider à chercher ton stage (parce que seul c’est galère)
+
+Il peut te :
+
+- Donner des idées d’entreprises à contacter
+- T’expliquer comment parler de toi
+- T’aider à écrire une lettre de motivation sans y passer 2 jours
+
+---
+
+## 4. Comment discuter avec l’assistant (LLM, mais t’inquiète c’est simple)
+
+Motivator 3000 utilise une IA (un chat intelligent, pas un chaton), à qui tu peux poser toutes tes questions. Voici comment lui parler sans prise de tête.
+
+### 4.1 Pose des questions claires (pas genre devine ce que je pense)
+
+Fais des phrases complètes. Tu veux un bon CV ? Dis-le clairement.
 
 **Exemples :**  
-- Pas clair : *CV stage*  
-- Mieux : *Peux-tu m’aider à faire un CV pour un stage en informatique ?*
+- *CV stage*  
+- *Peux-tu m’aider à faire un CV pour un stage en électricité ?*
 
-### 4.2 Donne des détails
+### 4.2 Donne des infos sur toi (il lit pas dans ta tête)
 
-Plus tu donnes d’infos sur toi, plus l’assistant pourra bien t’aider.  
-**Exemple :**  
-> *Je suis en 1re MELEC. J’ai travaillé sur une maquette de tableau électrique. J’aimerais faire mon stage dans une entreprise de maintenance.*
-
-### 4.3 Une question à la fois
-
-Évite de tout demander en même temps. Va étape par étape.  
-Par exemple, commence par demander de l’aide pour ton CV, puis plus tard pour ta lettre de motivation.
-
-### 4.4 Lis et adapte les réponses
-
-L’assistant donne des textes pour t’aider. Tu peux :
-
-- Changer quelques mots pour que ça te ressemble
-- Enlever ce qui ne correspond pas à ton parcours
-- Ajouter des détails sur toi
-
-### 4.5 Lui faire poser des questions
-
-Si tu ne sais pas trop quoi dire pour ton CV ou ta lettre de motivation, demande à Motivator 3000 de te poser des questions.  
-Ses questions vont t’aider à mieux te décrire et à rendre tes documents plus personnels et intéressants.
+Plus tu expliques ta situation, plus il pourra t’aider.  
 
 **Exemple :**  
-> *Peux-tu me poser des questions pour mieux faire mon CV ?*
+> *Je suis en 1re MELEC, j’ai fait un tableau électrique en TP, je veux un stage dans la maintenance industrielle.*
+
+### 4.3 Va doucement (c’est pas une course)
+
+Pose une question à la fois.  
+Commence par le CV, ensuite tu verras pour la lettre de motivation. Zen.
+
+### 4.4 Lis les réponses et modifie si besoin
+
+Tu peux :
+
+- Changer des mots pour que ça colle à ta façon de parler
+- Supprimer ce qui te concerne pas
+- Ajouter des détails que t’avais oubliés
+
+C’est ton CV, ton style !
+
+### 4.5 Lui faire poser des questions (genre il t’interviewe)
+
+Tu sais pas quoi écrire ? Pas de panique.  
+Demande-lui de te poser des questions, et il t’aidera à remplir ton CV ou ta lettre sans galérer.
+
+**Exemple :**  
+> *Pose-moi des questions pour m’aider à créer mon CV.*
 
 ---
 
-## 5. Conseils pratiques
+## 5. Conseils malins (parce qu’on est sympas)
 
-- **Sois précis** : n’hésite pas à raconter ce que tu as fait en cours ou en projet.  
-- **Réfléchis à tes points forts** : même un petit projet compte si tu l’as compris et bien réalisé.  
-- **Demande un avis** : montre ton CV ou ta lettre à un professeur ou un proche pour avoir un retour.  
-- **Mets à jour ton profil** : si tu fais un nouveau projet ou que tu apprends quelque chose, ajoute-le.
-
----
-
-## 6. Exemples concrets
-
-### 6.1 Trouver ses compétences
-> Tu expliques que tu as câblé une prise ou monté un circuit.  
-> Motivator 3000 te propose des compétences comme : "câblage", "lecture de plan", "sécurité".
-
-### 6.2 Écrire un objectif professionnel
-> Tu veux travailler plus tard dans les objets connectés.  
-> Motivator t’aide à écrire :  
-> *Je souhaite travailler dans une entreprise qui installe des systèmes connectés pour apprendre à les poser, les configurer et les réparer.*
-
-### 6.3 Créer un CV
-> Tu choisis un CV par compétences.  
-> Motivator 3000 met ton nom, tes infos, tes compétences en électricité, ton projet en classe, et ton objectif pro.
+- **Sois précis** : “j’ai câblé un tableau” > “j’ai fait de l’électricité”
+- **Tout compte** : même ton projet de 3e ou ton PC réparé à la maison
+- **Demande un avis** : un prof, un pote ou un parent peut te relire
+- **Mets à jour ton CV** : t’as appris un nouveau truc ? Ajoute-le !
 
 ---
 
-## 7. En résumé
+## 6. Exemples concrets (c’est toujours plus clair avec un exemple)
+
+### 6.1 Identifier ses compétences
+> T’as monté un circuit en TP.  
+> → Motivator 3000 te sort : “lecture de plan”, “câblage”, “sécurité électrique”.
+
+### 6.2 Écrire ton objectif pro
+> Tu veux bosser dans la domotique.  
+> → Il te propose :  
+> *Je veux travailler dans une entreprise qui installe des systèmes connectés (alarmes, éclairage, etc.) pour apprendre à les poser, les programmer et les entretenir.*
+
+### 6.3 Créer ton CV
+> Tu veux mettre en avant tes compétences, pas juste tes notes.  
+> → Motivator 3000 te prépare un CV avec ton nom, tes infos, tes projets en atelier, ton objectif, et tout ce qu’il faut pour montrer ce que tu sais faire.
+
+---
+
+## 7. En résumé (parce que t’as peut-être tout lu en diagonale)
 
 Motivator 3000 est là pour t’aider à :
 
 - Mieux te connaître  
-- Préparer un bon CV  
-- Trouver une entreprise qui te correspond  
-- Te sentir prêt pour ta recherche de stage  
+- Préparer un CV qui envoie  
+- Trouver une entreprise pour ta PFMP  
+- Te sentir prêt(e) et confiant(e)  
 
-Tu peux discuter avec lui, répondre à ses questions, et lui demander de l’aide à chaque étape.
+Tu peux discuter avec lui, lui poser des questions, et même lui demander de t’interroger.  
+C’est toi qui décides.
 
-Et en plus ta vie privée reste **privée** ! 
+Et surtout, **ta vie privée reste privée** : aucune donnée n’est utilisée sans ton accord. Tu peux l’utiliser tranquille.
