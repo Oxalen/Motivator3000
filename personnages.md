@@ -47,3 +47,12 @@ Lenny Talie, 17 ans, est en terminale BAC PRO MELEC
 
 
 
+## Frank Roissant
+<img aligne="right" src="https://github.com/user-attachments/assets/eff609c2-8440-4963-bb13-b17ab570b790" height ="250">
+Frank Roissant, 15 ans, est un élève de seconde pro TNE au lycée Louis de Cormontaigne à Metz. Curieux de nature, il s’est orienté vers cette filière pour comprendre comment fonctionnent les technologies qui nous entourent, des panneaux solaires aux réseaux informatiques.
+
+Toujours en basket et sac à dos en bandoulière, Frank est un peu discret mais très observateur. Il adore démonter de vieux appareils chez lui pour voir comment tout est câblé à l’intérieur. Son rêve ? Travailler plus tard dans la domotique ou les énergies renouvelables, “quelque chose d’utile et concret”, comme il le dit.
+
+
+
+
