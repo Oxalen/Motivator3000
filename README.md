@@ -28,7 +28,7 @@ ou encore :
 
 Ces phrases, bien que polies, n’ont aucune valeur différenciante et ne permettent ni de refléter la réalité du parcours de l’élève, ni de réellement convaincre un recruteur.
 
-### IA, synonyme de contenu répétitif et sans personnalité
+### IA, synonyme de contenu creux
 La majorité des modèles produisent du texte en s’appuyant sur des probabilités de langage et des formulations génériques. Lorsqu’ils ne sont pas alimentés par des informations contextuelles précises, ils finissent par générer toujours les mêmes types de documents, qui manquent :
 - de spécificité (compétences réellement acquises),
 - de cohérence métier (liens entre formation et mission de stage),
