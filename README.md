@@ -18,7 +18,7 @@ Résultat : les lettres générées sont souvent très semblables les unes aux a
 - la formation suivie (MELEC, CIEL, Transition numérique...),
 - l’annonce à laquelle l’élève répond.
 
-Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui impact négativement la crédibilité de la production.
+Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils d'IA grand public peuvent se retrouver avec des lettres identiques, ce qui impact négativement la crédibilité de la production.
 
 ### IA, synonyme de contenu creux
 La majorité des modèles produisent du texte en s’appuyant sur des probabilités de langage et des formulations génériques. Lorsqu’ils ne sont pas alimentés par des informations contextuelles précises, ils finissent par générer toujours les mêmes types de documents, qui manquent :
