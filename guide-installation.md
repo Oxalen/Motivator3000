@@ -1,6 +1,6 @@
 ### Étape 1  
 Ouvrez votre navigateur internet, recherchez **"LM Studio"** dans un moteur de recherche, puis cliquez sur le premier lien menant au site officiel.
-![Capture d'écran 2025-06-18 111740](https://github.com/user-attachments/assets/edd122bf-c9a7-4511-803e-e5cfec11e943)
+![image](https://github.com/user-attachments/assets/1ccf4f37-2f62-46bd-ad94-1e6fe705da85)
 
 ### Étape 2  
 Une fois sur le site officiel, cliquez sur le bouton **"Download for Windows"** pour lancer le téléchargement.
@@ -36,7 +36,7 @@ Une fois le modèle chargé, rendez-vous en haut à droite de l’interface et c
 
 ### Étape 10  
 Copiez-collez le **System Prompt** disponible sur la page GitHub du projet dans le champ prévu à cet effet.
-(https://github.com/user-attachments/assets/aca7360d-1312-4f27-ae97-97870b951d3a)
+![image](https://github.com/user-attachments/assets/1c8399e1-7b49-4c3f-99bc-0855f60d574d)
 
 ### Étape 11  
 Une fois le **System Prompt** en place, vous pouvez commencer à utiliser le chatbot avec le modèle sélectionné.
