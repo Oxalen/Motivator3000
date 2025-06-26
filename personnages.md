@@ -28,7 +28,7 @@ Cette standardisation garantit une interopérabilité pédagogique et une contin
 
 ## Anna Logie
 
-<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="500">
+<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="250">
 Anna Logie a 16 ans. Elle est en première Bac Pro CIEL au lycée Louis de Cormontaigne à Metz.
 
 Elle aime bien bricoler les câbles, comprendre comment fonctionnent les réseaux, et toucher à l’informatique. Ce qu’elle préfère, c’est quand il faut manipuler, monter un circuit, ou régler un souci sur une machine.
@@ -42,7 +42,7 @@ Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui 
 
 ## Lenny Talie
 
-<img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="500">
+<img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="250">
 Lenny Talie, 17 ans, est lui aussi en Première Bac Pro CIEL à Cormontaigne. Il est arrivé là un peu par hasard au départ — il aimait bien “bidouiller” les ordis chez lui, démonter des manettes, pirater sa console… Alors quand il a vu “informatique” et “électronique” dans le nom de la filière, il a tenté.
 
 Pas très scolaire, pas trop patient non plus, mais il a du flair. Quand un truc plante, il met les mains dedans, il teste, il comprend vite — même s’il n’a pas lu la consigne. Lenny est plus à l’aise avec les câbles qu’avec les mots.
