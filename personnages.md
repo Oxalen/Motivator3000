@@ -28,7 +28,7 @@ Cette standardisation garantit une interopérabilité pédagogique et une contin
 
 ## Anna Logie
 
-<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="200">
+<img align="right" src="https://github.com/user-attachments/assets/80503c4d-f916-4101-805e-064c69a92dcc" height="150">
 Anna Logie a 16 ans. Elle est en première Bac Pro CIEL au lycée Louis de Cormontaigne à Metz.
 
 Elle aime bien bricoler les câbles, comprendre comment fonctionnent les réseaux, et toucher à l’informatique. Ce qu’elle préfère, c’est quand il faut manipuler, monter un circuit, ou régler un souci sur une machine.
@@ -42,13 +42,13 @@ Tranquille, discrète, mais pas fermée. Anna, c’est une élève normale, qui 
 
 ## Lenny Talie
 
-<img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="200">
+<img align="right" src="https://github.com/user-attachments/assets/0265d4e6-7c67-406c-ada0-0d1f29e613ec" height="150">
 Lenny Talie, 17 ans, est en terminale BAC PRO MELEC
 
 
 
 ## Frank Roissant
-<img aligne="right" src="https://github.com/user-attachments/assets/eff609c2-8440-4963-bb13-b17ab570b790" height ="200">
+<img aligne="right" src="https://github.com/user-attachments/assets/eff609c2-8440-4963-bb13-b17ab570b790" height ="150">
 Frank Roissant, 15 ans, est un élève de seconde pro TNE au lycée Louis de Cormontaigne à Metz. Curieux de nature, il s’est orienté vers cette filière pour comprendre comment fonctionnent les technologies qui nous entourent, des panneaux solaires aux réseaux informatiques.
 
 Toujours en basket et sac à dos en bandoulière, Frank est un peu discret mais très observateur. Il adore démonter de vieux appareils chez lui pour voir comment tout est câblé à l’intérieur. Son rêve ? Travailler plus tard dans la domotique ou les énergies renouvelables, “quelque chose d’utile et concret”, comme il le dit.
