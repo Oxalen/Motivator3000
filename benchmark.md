@@ -175,7 +175,7 @@ A fait crasher notre ordinateur de tests... Il semblerait que 32 Gb de RAM soit 
 
 ## Quantité de RAM utilisée
 
-(https://github.com/user-attachments/assets/c1d6666d-a2cd-4ea9-ba38-f08e5ddd311b)
+![image](https://github.com/user-attachments/assets/c1d6666d-a2cd-4ea9-ba38-f08e5ddd311b)
 
 ## Evaluation de la vitesse pour générer une lettre de motivation
 
