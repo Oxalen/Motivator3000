@@ -147,7 +147,7 @@ Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suf
 # Licence et propriété intellectuelle
 Motivator 3000 - l'assistant numérique pour une pfmp réussie
 
-Copyright (C) 2025 Lycée Louis de Cormontaigne - Matthieu Farcot
+Copyright (C) 2025 Cormont Computer Club - Lycée Louis de Cormontaigne - Matthieu Farcot
 
 Ce programme est un logiciel libre : vous pouvez le redistribuer et/ou le modifier selon les termes de la Licence Publique Générale Affero GNU telle que publiée par la Free Software Foundation, soit la version 3 de la licence, soit (à votre choix) toute version ultérieure (voir le document licence.txt à la racine du projet).
 
