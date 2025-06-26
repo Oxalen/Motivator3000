@@ -140,7 +140,7 @@ Actions menées :
 - Tests manuels pour évaluer la réactivité des modèles à ces instructions.
 
 
-Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suffisent pas en l’absence de connaissance métier spécifique au contexte du lycée professionnel. D’où la nécessité d’implémenter un système RAG avec accès aux référentiels académiques des matières enseignées au Lycée Louis de Cormontaigne (Metz).
+Résultat : Les prompts bien structurés améliorent la pertinence, mais ne suffisent pas en l’absence de connaissance métier spécifique au contexte du lycée professionnel. D’où la nécessité d’implémenter un système RAG avec accès aux référentiels académiques des matières professionnelles enseignées au Lycée Louis de Cormontaigne (Metz). Ceci sera la prochaine étape du projet.
 
 
 
