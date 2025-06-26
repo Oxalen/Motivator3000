@@ -11,7 +11,7 @@ Motivator 3000 est un projet du *Cormont Computer Club*.
 ## Pourquoi l’usage "générique" de l’IA par les lycéens ne suffit pas
 Avec la généralisation des outils d’intelligence artificielle accessibles en ligne, de nombreux lycéens ont commencé à utiliser des modèles comme ChatGPT, Gemini ou d’autres assistants IA pour générer leurs CV ou leurs lettres de motivation. Si cette démarche est compréhensible et peut sembler rassurante, elle pose plusieurs limites majeures.
 
-### Des lettres génériques et interchangeables
+### IA, synonyme de productions textuelles interchangeables
 Les modèles d’IA généralistes, même performants, n’ont aucune connaissance réelle du parcours scolaire ou professionnel spécifique des lycéens, en particulier ceux de la voie professionnelle.
 Résultat : les lettres générées sont souvent très semblables les unes aux autres, quel que soit :
 - le métier visé (électricien, technicien réseau, agent de maintenance...),
@@ -28,7 +28,7 @@ ou encore :
 
 Ces phrases, bien que polies, n’ont aucune valeur différenciante et ne permettent ni de refléter la réalité du parcours de l’élève, ni de réellement convaincre un recruteur.
 
-### Un contenu répétitif et sans personnalité
+### IA, synonyme de contenu répétitif et sans personnalité
 La majorité des modèles produisent du texte en s’appuyant sur des probabilités de langage et des formulations génériques. Lorsqu’ils ne sont pas alimentés par des informations contextuelles précises, ils finissent par générer toujours les mêmes types de documents, qui manquent :
 - de spécificité (compétences réellement acquises),
 - de cohérence métier (liens entre formation et mission de stage),
