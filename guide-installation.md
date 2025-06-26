@@ -24,26 +24,24 @@ Lorsque l’installation est terminée, cliquez sur **Terminer** puis lancez le 
 
 ### Étape 7  
 Une fois le logiciel ouvert, appuyez sur **Ctrl + L** ou cliquez en haut de la page sur **"Select a model to load"** pour choisir un modèle à charger.
-![Capture d'écran 2025-06-18 112028](https://github.com/user-attachments/assets/90cdc72b-4b97-4e3f-b06a-f45859b8eab9)
+(https://github.com/user-attachments/assets/d9991043-eb44-4947-ae81-c7671cbf22ab)
 
 ### Étape 8  
 Dans la liste des modèles disponibles, cliquez sur **"Gemma 3 12B"** pour le sélectionner.
-![Capture d'écran 2025-06-18 112046](https://github.com/user-attachments/assets/75a70a0e-2052-43cb-9d62-3cf6954951af)
+(https://github.com/user-attachments/assets/7aff37f3-0e40-4626-9645-3b7ff9656d80)
 
 ### Étape 9  
 Une fois le modèle chargé, rendez-vous en haut à droite de l’interface et cliquez sur **"System Prompt"** pour accéder aux paramètres du prompt système.
-![Capture d'écran 2025-06-18 112103](https://github.com/user-attachments/assets/f1f948de-d20c-4022-8253-2717f5ac972b)
+(https://github.com/user-attachments/assets/f4fc8ba3-ca55-4083-a314-75556667512b)
 
 ### Étape 10  
 Copiez-collez le **System Prompt** disponible sur la page GitHub du projet dans le champ prévu à cet effet.
-![Capture d'écran 2025-06-18 112103](https://github.com/user-attachments/assets/5b52d3bb-9459-4364-af17-075d79a154d1)
+(https://github.com/user-attachments/assets/aca7360d-1312-4f27-ae97-97870b951d3a)
 
 ### Étape 11  
 Une fois le **System Prompt** en place, vous pouvez commencer à utiliser le chatbot avec le modèle sélectionné.
-![Capture d'écran 2025-06-18 112116](https://github.com/user-attachments/assets/792e9fde-a5c4-41d9-9c2b-04321076c41f)
+![image](https://github.com/user-attachments/assets/a60eaddb-2f42-4685-b788-907be4380d63)
 
-### Etape 12
-Une fois le **System Prompt** chargé, commencez la discussion avec l'IA, normalement, elle devrait commencer à intéragir comme ceci 
-![image](https://github.com/user-attachments/assets/95d69efe-445b-4b2a-a243-3f1db56a0d51)
+
 
 
