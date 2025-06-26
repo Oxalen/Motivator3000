@@ -5,9 +5,9 @@
 Motivator 3000, c’est ton assistant perso pour t’aider à trouver ton stage (ta PFMP) ou un apprentissage, si tu es au lycée Louis de Cormontaigne.  
 Que tu sois en :
 
-- **TNE** (Transition Numérique et Énergétique)
-- **CIEL** (Cybersécurité, Informatique, Électronique et Réseaux)
-- **MELEC** (Métiers de l’Électricité et des Environnements Connectés)
+- **TNE** : Transition Numérique et Énergétique  
+- **CIEL** : Cybersécurité, Informatique et Réseaux, Électronique  
+- **MELEC** : Métiers de l’Électricité et de ses Environnements Connectés  
 
 ... Motivator 3000 est là pour t’aider à :
 
@@ -40,9 +40,9 @@ Même les trucs que tu crois peuvent être utiles sur ton CV.
 
 Il connaît bien les programmes de ta filière :
 
-- **TNE** : énergie et numérique
-- **CIEL** : sécurité informatique, réseau, montage de matos
-- **MELEC** : installation, câblage, objets connectés
+- **TNE** : Transition Numérique et Énergétique  
+- **CIEL** : Cybersécurité, Informatique et Réseaux, Électronique  
+- **MELEC** : Métiers de l’Électricité et de ses Environnements Connectés  
 
 Tu peux parler de ce que tu fais en cours, en atelier, ou même chez toi (oui, réparer la box de mamie, ça compte).
 
