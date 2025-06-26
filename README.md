@@ -38,11 +38,19 @@ Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outi
 
 ### IA, synonyme d'hallucinantes hallucinations 
 
-
+A l'heure actuelle, toute IA est assujettie aux phénomènes d'hallucinations - des réponses fausses ou trompeuses présentées comme faits certains. Ceci est particulièrement vrai pour les IA locales, surtout si le choix d'architecture logicielle est volontairement fait pour couper toute communication avec des serveurs et services distants, donc toute capacité de vérifier ou au moins partiellement valider une réponse par une recherche sur Internet (note: les raisons à cette coupure sont exposées à la sous-section suivante portant sur l'importance du respect de la vie privée). Ce phénomène fait générer des réponses aux IA généralistes qui ne joue pas du tout en faveur de la crédibilité des productions réalisées.
 
 ### IA, synonyme de normalisation de la mort de la vie privée 
 
-*A developper*
+La plupart des conditions générales d'utilisation (CGU) des IA généralistes accessibles via Internet sont explicites quand à la nature non confidentielle des données utilisées en entrée ou générées en sortie par leurs systèmes. Il est intérressant de noter que ces plate-formes semblent être assujetties à un trouble dissociatif de la personnalité (somme toute plutot classique à l'ère du Cloud) entre le discours commercial affiché qui insistera sur le respect de la vie privée, de la confidentialité des échanges (ou du contenu généré) et la transposition des ces "valeurs" dans le cadre légal d'utilisation de la même plate-forme qui renie tout cela sans état d'âme en se justifiant avec la notion d'intérêt légitime.
+
+Nous pourrons citer par exemple la politique de confidentialité dans sa version effective au 27 mai 2025 de Mistral AI. Dans sa section "[3. Pourquoi utilisons-nous vos données personnelles ?](https://mistral.ai/fr/terms#privacy-policy)", il est indiqué que "pour entraîner les modèles d’intelligence artificielle sont utilisées avec *l'accord de l'utilisateur*" les "données personnelles éventuellement incluses dans des données publiquement accessibles sur Internet (...) et (les) données d’entrée et de sortie" (sous réserve d'un droit d’opposition et dans le cas de l'usage de la version gratuite du web service).
+
+La problématique est similaire pour les services d'accès à des IA d'entreprises américaines comme chatGPT ou Claude.
+
+Plus largement, autant la [CNIL](https://www.cnil.fr/fr/deux-faq-utilisation-des-systemes-dia-scolaire) que le [ministère de l'éducation nationale](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647) ont émis des recommendations claires sur ce sujet qui vont dans le sens d'un projet comme Motivator 3000 : il est conseiller de renoncez aux IA "grand public" (donc en ligne) quand des données personnelles sont en jeu.
+
+
 
 ## Motivator 3000 : une réponse adaptée, locale et "intelligente"
 La plateforme Motivator 3000 a été conçue précisément pour répondre à ces limites, en proposant un assistant IA :
