@@ -46,7 +46,7 @@ La plupart des conditions générales d'utilisation (CGU) des IA généralistes 
 
 Nous pourrons citer par exemple la politique de confidentialité dans sa version effective au 27 mai 2025 de Mistral AI. Passé la page d'accueil du site qui insiste sur la protection de la vie privée et la confidentialité, ce service dans sa section "[3. Pourquoi utilisons-nous vos données personnelles ?](https://mistral.ai/fr/terms#privacy-policy)", indique que "pour entraîner les modèles d’intelligence artificielle sont utilisées avec *l'accord de l'utilisateur*" les "données personnelles éventuellement incluses dans des données publiquement accessibles sur Internet (...) et (les) données d’entrée et de sortie" (sous réserve d'un droit d’opposition et dans le cas de l'usage de la version gratuite du web service).
 
-La problématique est similaire (voir encore plus problématique) pour les services d'accès et d'usage d'IA d'entreprises américaines comme chatGPT ou Claude.
+La situation est similaire (voir encore plus problématique) pour les services d'accès et d'usage d'IA d'entreprises américaines comme chatGPT ou Claude.
 
 Plus largement, autant la [CNIL](https://www.cnil.fr/fr/deux-faq-utilisation-des-systemes-dia-scolaire) que le [ministère de l'éducation nationale](https://www.education.gouv.fr/cadre-d-usage-de-l-ia-en-education-450647) ont émis des recommendations claires sur ce sujet qui vont dans le sens d'un projet comme Motivator 3000 : il est recommandé de renoncer aux IA "grand public" (donc en ligne) quand des données personnelles sont en jeu dans le cadre scolaire.
 
