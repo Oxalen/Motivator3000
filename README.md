@@ -18,11 +18,7 @@ Résultat : les lettres générées sont souvent très semblables les unes aux a
 - la formation suivie (MELEC, CIEL, Transition numérique...),
 - l’annonce à laquelle l’élève répond.
 
-On retrouve systématiquement les mêmes formulations creuses, comme :
-
-"Je suis très motivé pour rejoindre votre entreprise et acquérir de l'expérience. Votre structure correspond parfaitement à mes aspirations professionnelles."
-
-Ces phrases, bien que polies, n’ont aucune valeur différenciante et ne permettent ni de refléter la réalité du parcours de l’élève, ni de réellement convaincre un recruteur.
+Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui impact négativement la crédibilité de la production.
 
 ### IA, synonyme de contenu creux
 La majorité des modèles produisent du texte en s’appuyant sur des probabilités de langage et des formulations génériques. Lorsqu’ils ne sont pas alimentés par des informations contextuelles précises, ils finissent par générer toujours les mêmes types de documents, qui manquent :
@@ -30,7 +26,11 @@ La majorité des modèles produisent du texte en s’appuyant sur des probabilit
 - de cohérence métier (liens entre formation et mission de stage),
 - de personnalité (langage, centres d’intérêt, projet professionnel).
 
-Pire encore : dans un même lycée, plusieurs élèves utilisant les mêmes outils peuvent se retrouver avec des lettres presque identiques, ce qui impact négativement la crédibilité de la production.
+On retrouve systématiquement les mêmes formulations, comme :
+
+"Je suis très motivé pour rejoindre votre entreprise et acquérir de l'expérience. Votre structure correspond parfaitement à mes aspirations professionnelles."
+
+Ces phrases, bien que polies, n’ont aucune valeur différenciante et ne permettent ni de refléter la réalité du parcours de l’élève, ni de réellement convaincre un recruteur.
 
 ### IA, synonyme d'hallucinantes hallucinations 
 
