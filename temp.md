@@ -47,7 +47,9 @@ trainer avec mes potes
 
 references
 mon prof d’electro (si il repond)
-
 mon cousin lounes
+
+![image](https://github.com/user-attachments/assets/84c92021-6df5-45c1-8159-fecbcb1c140b)
+
 
 
